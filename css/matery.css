@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #bf3044 0%, #0f9d58 100%);
 }
 
 .text-color {
@@ -290,7 +290,7 @@ header nav .brand-span {
 }
 
 header .brand-logo .logo-img {
-    height: 45px;
+    height: 68px;
     vertical-align: middle;
     padding-bottom: 6px;
 }
